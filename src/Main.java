@@ -5,6 +5,8 @@ public class Main {
         double tutar, kdv = 0.18, kdvTutari, kdvliTutar;
 
 
+
+
         Scanner input = new Scanner(System.in);
 
 
