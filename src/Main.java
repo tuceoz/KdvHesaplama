@@ -7,6 +7,7 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
 
+
         System.out.print("Ücreti giriniz: ");
         tutar = input.nextDouble();
 
